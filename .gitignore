@@ -1,0 +1,17 @@
+# Ignora dependências
+node_modules/
+
+# Ignora build TS
+dist/
+build/
+
+# Ignora arquivos de log
+*.log
+
+# Ignora envs
+.env
+.env.*
+
+# Ignora arquivos do sistema/IDE
+.DS_Store
+.vscode/
