@@ -36,7 +36,7 @@ Atualmente, a `SpellChecker` oferece **suporte exclusivo para PT-BR**.
 ## 📦 Instalação
 
 ```bash
-npm install spellchecker-automatic
+npm install spellchecker-real-time
 ```
 
 ---
